@@ -1,0 +1,80 @@
+# 👋 Hola, soy Isabella Idárraga
+
+<div align="center">
+
+### 📊 Ingeniería de Sistemas · Datos e IA
+
+<a href="https://github.com/Isa-Idarraga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+Estudiante de Ingeniería de Sistemas en la **Universidad EAFIT**, con énfasis en datos. Me interesan los proyectos donde los datos recorren todo el camino: modelarlos, moverlos, analizarlos y convertirlos en algo útil.
+
+- 🎓 Cursando Ingeniería de Sistemas en EAFIT, Medellín
+- 🤖 Proyectos en NLP, RAG y agentes con LLMs
+- 🗄️ Bases de datos distribuidas, data warehousing y BI
+- 📍 Medellín, Colombia
+
+---
+
+## 🛠️ Stack tecnológico
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Datos e IA
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)
+
+### Web
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Cloud y herramientas
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📌 Proyectos destacados
+
+### 🤖 Datos e IA
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [**triage-dermatologico-ia**](https://github.com/Isa-Idarraga/triage-dermatologico-ia) | Triage dermatológico asistido por IA: clasificador BETO + LoRA, RAG híbrido, agente con tool use y componente de visión | Transformers · LoRA · RAG · ViT |
+| [**Proyecto-redes**](https://github.com/Isa-Idarraga/Proyecto-redes) | NLP multitarea sobre reseñas de Goodreads: rating, spoilers y emociones | PyTorch · BiLSTM · DistilBERT |
+
+### 🗄️ Bases de datos y BI
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [**Proyecto3BasesAvanzadas**](https://github.com/Isa-Idarraga/Proyecto3BasesAvanzadas) | Arquitectura de BI completa: OLTP, staging, data warehouse dimensional, ETL y dashboard | SQL Server · Power BI |
+| [**proyecto2bases_avanzadas**](https://github.com/Isa-Idarraga/proyecto2bases_avanzadas) | Base de datos distribuida: particionamiento, 2PC, replicación con failover y NewSQL | PostgreSQL · CockroachDB · Docker |
+| [**proyecto1bases_avanzadas**](https://github.com/Isa-Idarraga/proyecto1bases_avanzadas) | Optimización de rendimiento en PostgreSQL con índices, particiones y reescritura de queries | PostgreSQL · AWS EC2 · RDS |
+
+### 🌐 Desarrollo web
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [**Inclusive-Budget**](https://github.com/Isa-Idarraga/Inclusive-Budget) | App para presupuestar y controlar proyectos de construcción, con roles y KPIs | Django · PostgreSQL · AWS S3 |
+| [**ZeroWaste**](https://github.com/JJRodriguezz/ZeroWaste) | Marketplace de moda circular: catálogo de ropa reutilizada, inventario, ventas, estadísticas y exportación a Excel | Django · PostgreSQL · Chart.js |
+| [**app_IngSistemas**](https://github.com/Isa-Idarraga/app_IngSistemas) | Calendario de eventos y pénsum interactivo del programa · [ver en línea](https://app-ing-sistemas.vercel.app) | Next.js · TypeScript · Vercel |
