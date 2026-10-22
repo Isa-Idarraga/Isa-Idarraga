@@ -52,6 +52,12 @@ Estudiante de Ingeniería de Sistemas en la **Universidad EAFIT**, con énfasis 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+### Power Platform
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+
 ---
 
 ## 📌 Proyectos destacados
@@ -70,6 +76,12 @@ Estudiante de Ingeniería de Sistemas en la **Universidad EAFIT**, con énfasis 
 | [**Proyecto3BasesAvanzadas**](https://github.com/Isa-Idarraga/Proyecto3BasesAvanzadas) | Arquitectura de BI completa: OLTP, staging, data warehouse dimensional, ETL y dashboard | SQL Server · Power BI |
 | [**proyecto2bases_avanzadas**](https://github.com/Isa-Idarraga/proyecto2bases_avanzadas) | Base de datos distribuida: particionamiento, 2PC, replicación con failover y NewSQL | PostgreSQL · CockroachDB · Docker |
 | [**proyecto1bases_avanzadas**](https://github.com/Isa-Idarraga/proyecto1bases_avanzadas) | Optimización de rendimiento en PostgreSQL con índices, particiones y reescritura de queries | PostgreSQL · AWS EC2 · RDS |
+
+### ⚙️ Power Platform
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [**inmersion-power-platform-eafit**](https://github.com/Isa-Idarraga/inmersion-power-platform-eafit) | App de requisiciones de personal y asistente virtual para estudiantes, hechos en mi inmersión en Talento Humano EAFIT | Power Apps · Power Automate · Copilot Studio · SharePoint |
 
 ### 🌐 Desarrollo web
 
